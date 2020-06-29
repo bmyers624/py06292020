@@ -1,1 +1,1 @@
-I want to learn how to version control projects with git.
+I want to learn how to version control projects with git!
